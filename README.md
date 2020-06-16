@@ -1,5 +1,5 @@
 # elasticsearch-node
-Search engine from all cities in the world with ElasticSearch and Node
+City search engine with ElasticSearch and Node. (all cities in the world)
 
 ## How to run
 
